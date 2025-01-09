@@ -36,8 +36,7 @@ Document progress and insights.
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/frontend-journey.git
-
+git clone git@github.com:Ishan-Shrestha/Frontend.git
 
 2. Explore the folders:
 Each folder focuses on a specific topic (e.g., HTML, CSS, JS).
