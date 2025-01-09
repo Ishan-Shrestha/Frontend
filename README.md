@@ -27,7 +27,7 @@ This repository documents my journey exploring various frontend technologies, in
 
 Hands-on projects to apply learned concepts.
 
-## Iterative learning: Build, test, and improve.
+Iterative learning: Build, test, and improve.
 
 Document progress and insights.
 
