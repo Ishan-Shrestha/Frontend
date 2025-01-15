@@ -1,0 +1,16 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url('/html/Project/Images/background.jpg');
+    background-size: cover;
+    filter: blur();
+}
+.title{
+    text-align: center;
+    color: red;
+}
+.box {
+    border: 2px solid #333; /* Creates a border around the box */
+    padding: 20px;           /* Adds padding inside the box */
+    width: 300px;            /* Sets the width of the box */
+    background-color: #f4f4f4; /* Background color of the box */
+  }

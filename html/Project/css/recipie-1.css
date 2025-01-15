@@ -1,0 +1,17 @@
+body{
+    background-color: wheat;
+    color: chocolate;
+}
+.box{
+    background-color: olive;
+    color: black;   
+    border: 5px black;
+    padding: 30px;
+}
+.box.ingredients{
+    width: 300px;
+    align-items: center;
+}
+.image{
+    align-items: center;
+}
